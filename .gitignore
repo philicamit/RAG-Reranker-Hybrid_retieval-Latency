@@ -1,0 +1,16 @@
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/
+.DS_Store
+Thumbs.db
+faiss_index/
